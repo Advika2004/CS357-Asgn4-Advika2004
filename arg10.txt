@@ -1,0 +1,1 @@
+-c in10.txt tmp.bin
